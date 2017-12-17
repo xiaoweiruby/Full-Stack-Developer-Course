@@ -1,8 +1,8 @@
 # 才华横溢科技（北京）有限责任公司
 ## 全栈工程师培训大纲
-<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171211%E9%97%A8%E5%BE%92%E8%AE%A1%E5%88%92-%E5%9F%B9%E8%AE%AD.jpg" align='left' alt="20171211"/>
+<img src="https://github.com/shenzhoudance/Full-Stack-Developer-Course/blob/master/caihuahengyilogo.png" align='left' alt="20171211"/>
 
-<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171211%E9%97%A8%E5%BE%92%E8%AE%A1%E5%88%92-%E5%9F%B9%E8%AE%AD.jpg" align='left' alt="20171211"/>
+<img src="https://github.com/shenzhoudance/Full-Stack-Developer-Course/blob/master/awaiting-the-tide_large.jpg" align='left' alt="20171211"/>
 
 ## 一、针对于现在快速实现财富自由的方法，在于孩子们需要掌握以下的三项技能
 其中包括：**财务技能**、**产品技能**、**销售技能**，我们在绝大多数情况下，都没有完成正确的学习，不知道整个社会的运作的法则，所以学习了大量的错误的东西，现在是时候开始学习正确的知识体系了，一个人想要在这个世界快速的完成立足，就需要正确的掌握知识体系，没有正确的知识体系，就不可以能完成知识体系的快速的实现，从而改变自己的命运，所以在这个过程中，我们需要正确的学习，从而改变自己的生命的轨迹。
@@ -24,7 +24,7 @@
 ## （3）针对于产品销售：
 针对于产品销售其实才是产品打造后续最关键的部分，很多的时候是不是依靠想就可以完成效果，而是需要在做的过程中，不断的优化，帮助孩子们完成自我营销，从而完成产品的销售，实现自己的单位时间的货币价值最大化。
 
-<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171211%E9%97%A8%E5%BE%92%E8%AE%A1%E5%88%92-%E5%9F%B9%E8%AE%AD.jpg" align='left' alt="20171211"/>
+<img src="https://github.com/shenzhoudance/Full-Stack-Developer-Course/blob/master/caihuahengyi.png" align='left' alt="20171211"/>
 
 ## （4）针对就业方向
 - **自主创业**
