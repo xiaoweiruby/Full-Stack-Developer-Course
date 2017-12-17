@@ -1,5 +1,5 @@
-# 才华横溢科技（北京）有限责任公司
-## 全栈工程师培训大纲
+# [才华横溢科技（北京）有限责任公司]
+## [全栈工程师培训大纲]
 <img src="https://github.com/shenzhoudance/Full-Stack-Developer-Course/blob/master/caihuahengyilogo.png" align='left' alt="20171211"/>
 
 
@@ -43,4 +43,4 @@
 - 16800元/年
 
 ## 四、联系老师
-<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171211%E9%97%A8%E5%BE%92%E8%AE%A1%E5%88%92-%E5%9F%B9%E8%AE%AD.jpg" align='left' width="1080" height="1920" alt="20171211"/>
+<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171211%E9%97%A8%E5%BE%92%E8%AE%A1%E5%88%92-%E5%9F%B9%E8%AE%AD.jpg" align='left' alt="20171211"/>
