@@ -2,10 +2,12 @@
 ## 全栈工程师培训大纲
 <img src="https://github.com/shenzhoudance/Full-Stack-Developer-Course/blob/master/caihuahengyilogo.png" align='left' alt="20171211"/>
 
-<img src="https://github.com/shenzhoudance/Full-Stack-Developer-Course/blob/master/awaiting-the-tide_large.jpg" align='left' alt="20171211"/>
+
 
 ## 一、针对于现在快速实现财富自由的方法，在于孩子们需要掌握以下的三项技能
 其中包括：**财务技能**、**产品技能**、**销售技能**，我们在绝大多数情况下，都没有完成正确的学习，不知道整个社会的运作的法则，所以学习了大量的错误的东西，现在是时候开始学习正确的知识体系了，一个人想要在这个世界快速的完成立足，就需要正确的掌握知识体系，没有正确的知识体系，就不可以能完成知识体系的快速的实现，从而改变自己的命运，所以在这个过程中，我们需要正确的学习，从而改变自己的生命的轨迹。
+
+<img src="https://github.com/shenzhoudance/Full-Stack-Developer-Course/blob/master/awaiting-the-tide_large.jpg" align='left' alt="20171211"/>
 
 ## （1）针对于财务技能：
 我们需要帮助大家认知公司的财务的运作，需要明白一家公司如何完成财务报表的生成，从而帮助自己快速的掌握一家公司运作的方式，所以财务的技能是每一个人想要获得成功的个体都需要完成的技能体系，所以我们首先需要帮助搭建狗阿金正确的财务的知识的体系，只有构架了正确的财务的知识的体系，才可以快速的帮助自己成为一个社会上所使用的个体。
