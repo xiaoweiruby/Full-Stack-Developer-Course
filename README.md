@@ -1,5 +1,6 @@
-# [才华横溢科技（北京）有限责任公司]
-## [全栈工程师培训大纲]
+
+#  <font color=#0099ff size=12 face="黑体">才华横溢科技（北京）有限责任公司</font>
+## <center> 全栈工程师培训大纲</center >
 <img src="https://github.com/shenzhoudance/Full-Stack-Developer-Course/blob/master/caihuahengyilogo.png" align='left' alt="20171211"/>
 
 
